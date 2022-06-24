@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @ayush3j
-- 👀 I’m interested in designing
-- 🌱 I’m currently learning js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Ayush Chaudhary
+- 👀 I’m interested in learning new things
+- 🌱 I’m currently learning js and react js
+- 📫 How to reach me ayush3j@gmail.com
 
 <!---
 ayush3j/ayush3j is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
